@@ -1,0 +1,11 @@
+A ; C
+A ) B
+B ) C
+C 0 C
+C ) C
+test: ))
+test: )
+test: 000)
+test: )000
+test: ))00000)
+test: lambda
