@@ -2,8 +2,6 @@ import utils
 import sys
 import argparse
 
-# Aluno: Felipe Augusto Vasconcelos e Silva
-# Matricula: 16.2.4358
 
 def main():
 
